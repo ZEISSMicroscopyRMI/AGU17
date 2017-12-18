@@ -130,11 +130,10 @@ If you prefer to work offline, both notebooks and datasets are also available vi
 The terminal module on Jupyter is fully enabled, you can installed additional packages as needed.
 
 # Zeiss RMI team@AGU
+- Joaquin Correa, *Brain scramblerer* [@byjoaquincorrea](https://twitter.com/byjoaquincorrea)
 - Matthew Andrew, *GEO-ninja* [@DrMatthewAndrew](https://twitter.com/DrMatthewAndrew)
 - Brenda Ropoulos, *Mom* [@bropo](https://twitter.com/bropo)
 - Shaun Graham, *GEO-ninja* [@Shaung57](https://twitter.com/Shaung57)
-- Joaquin Correa, *Brain scramblerer* [@byjoaquincorrea](https://twitter.com/byjoaquincorrea)
-
 
 ```python
 welcome_str_ = """  _  _                       _            _   _              __                 ____    _       _ \n \
