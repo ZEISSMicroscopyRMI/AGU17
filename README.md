@@ -1,5 +1,5 @@
 
-# Welcome to AGU Hack-a-athon with Zeiss!
+# Welcome to AGU Hack-a-thon with Zeiss!
 Your Jupyter Notebook is fully loaded with all the packages you might need for the session, 
 your environment is packed with popular tools used in data science and application development, 
 from image processing and machine learning packages like `scikit-image` or `Tensorflow` to data analytics 
